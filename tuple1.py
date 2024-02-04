@@ -1,0 +1,5 @@
+x=("karthi","madan","senthamil")
+y=list(x)
+y.append("saravanan")
+x=tuple(y)
+print(x)

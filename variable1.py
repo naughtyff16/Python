@@ -1,0 +1,3 @@
+x="karthi"
+
+print(x)
